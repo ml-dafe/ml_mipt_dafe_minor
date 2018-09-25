@@ -7,7 +7,7 @@
 
 ## Tools 
 
-### ![](ml_mipt_dafe_minor/pic/anaconda.png =16x16) Вариант 1
+### ![](https://github.com/VlasovKirill/ml_mipt_dafe_minor/blob/master/pic/anaconda.png =16x16) Вариант 1
 - Установить [Anaconda](https://www.anaconda.com/distribution/)
 - Написать в командной строке: `jupiter notebook`
 - Открыть в браузере [http://localhost:8888](http://localhost:8888)
