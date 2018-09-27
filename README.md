@@ -1,5 +1,5 @@
 # Факультативный курс "Введение в машинное обучение" на ФАЛТ МФТИ
-<img src='https://github.com/VlasovKirill/ml_mipt_dafe_minor/blob/master/pic/drive.png' height="20px" width="20px" align="top"> [Google Drive](https://goo.gl/xwbPUK)
+Зеркало на <img src='https://github.com/VlasovKirill/ml_mipt_dafe_minor/blob/master/pic/drive.png' height="20px" width="20px" align="top"> [Google Drive](https://goo.gl/xwbPUK)
 
 ## Tools 
 
