@@ -5,7 +5,7 @@
 
 ### <img src='https://github.com/VlasovKirill/ml_mipt_dafe_minor/blob/master/pic/anaconda.png' height="20px" width="20px" align="top"> Вариант 1
 - Установить [Anaconda](https://www.anaconda.com/distribution/)
-- Написать в командной строке: `jupiter notebook`
+- Написать в командной строке: `jupyter notebook`
 - Открыть в браузере [http://localhost:8888](http://localhost:8888)
 - Использовать по назначению
 
