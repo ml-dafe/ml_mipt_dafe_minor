@@ -11,6 +11,6 @@
 
 ### <img src='https://github.com/VlasovKirill/ml_mipt_dafe_minor/blob/master/pic/docker.png' height="20px" width="20px" align="top"> Вариант 2
 - Устанавливаем Docker с [официального сайта](https://www.docker.com/products/docker-desktop)
-- В командной строке пишем: `sudo docker run -d -p 4545:4545 -v ‘путь_на_основной_машине‘:/home/user vlasoff/ds jupyter notebook`
+- В командной строке пишем: `sudo docker run -d -p 4545:4545 -v ‘путь_на_основной_машине‘:/home/user vlasoff/ml jupyter notebook`
 - Заходим через браузер на [http://localhost:4545](http://localhost:4545)
 - Использовать по назначению
